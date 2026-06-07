@@ -1,0 +1,10 @@
+{
+  "name": "apppet",
+  "version": "1.0.0",
+  "main": "App.js",
+  "dependencies": {
+    "expo": "*",
+    "react": "*",
+    "react-native": "*"
+  }
+}
