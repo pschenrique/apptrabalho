@@ -1,10 +1,10 @@
 {
-  "name": "apppet",
-  "version": "1.0.0",
-  "main": "App.js",
   "dependencies": {
-    "expo": "*",
-    "react": "*",
-    "react-native": "*"
+    "expo-sqlite": "*",
+    "crypto-js": "*",
+    "@react-navigation/native": "*",
+    "@react-navigation/stack": "*",
+    "react-native-screens": "*",
+    "react-native-safe-area-context": "*"
   }
 }
